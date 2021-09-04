@@ -15,3 +15,7 @@ Afrosoft BackEnd Dev Test
 5. paste oAuth token in header by clicking "Authorise 🔓" button
 6. prefix the token with "`bearer <token>`" and paste into the Authorization prompt, you are now authenticated
 7. use "`BankAPI`" methods to manage bank account
+
+# AfrosoftTest.sql
+1. import db into sql server 2017+
+2. update db connection string in `BackEndDeveloperAssesment\Models\dbContext.cs` line 28
