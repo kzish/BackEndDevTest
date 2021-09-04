@@ -5,7 +5,7 @@ Afrosoft BackEnd Dev Test
 # Auth
 1. This is the oAuth authenticating server
 2. Run in iis-express with visual studio or deploy to IIS with asp.net core 2.2
-3. Copy url where Auth is deployed and paste in "BackEndDeveloperAssesment/Globals.cs" line 11
+3. Copy url where Auth is deployed and paste in "`BackEndDeveloperAssesment/Globals.cs`" line 11
 
 # BackEndDeveloperAssesment
 1. Main API use swagger interface to test the API
